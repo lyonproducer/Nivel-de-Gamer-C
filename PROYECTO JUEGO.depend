@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1343245545 source:c:\users\leo family\desktop\uneg info\proyecto - que nivel de gamer eres\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1443589143 c:\users\leo family\desktop\uneg info\proyecto - que nivel de gamer eres\inicia.h
+
+1444438004 source:c:\users\leo family\desktop\uneg info\proyecto - que nivel de gamer eres\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1343245545 source:c:\users\lyondj\desktop\uneg\proyecto - que nivel de gamer eres\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1443589143 c:\users\lyondj\desktop\uneg\proyecto - que nivel de gamer eres\inicia.h
+
+1444438004 source:c:\users\lyondj\desktop\uneg\proyecto - que nivel de gamer eres\main.cpp
+	<allegro.h>
+	"inicia.h"
+
